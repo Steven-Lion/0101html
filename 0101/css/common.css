@@ -1,0 +1,10 @@
+html,body,nav,ul,li,h2{
+    padding:0px;
+    margin:0px;
+    
+}
+body{
+    min-width: 320px;
+    font:normal 14px/1.5em Tahoma,
+        "Luc"
+}
